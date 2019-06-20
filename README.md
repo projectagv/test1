@@ -14,7 +14,13 @@ het is een vaaaaagggggg programma.;
 1 het is een vaage 
 2
 
+int a = 5;
 
+void main(){
+
+if (a<666)
+a= a-1;
+}
 3
 
 4
