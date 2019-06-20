@@ -10,13 +10,19 @@ dat en en en en ehhhhh kattuk is de beste;
 waarom doet die geen enters.
 
 het is een vaaaaagggggg programma.;
-1
+
+1 het is een vaage 
 2
+
+
 3
+
 4
 5
+
 6
 7
+
 8
 // deze is illigaal;
 10
